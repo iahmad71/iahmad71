@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iahmad71
+- 👋 Hi, I’m Imran Chaudhary
 - 👀 I’m interested in ... MicroServices Architecture 
 - 🌱 I’m currently learning ... Design patterns for cloud native microservices driven application archiecture. 
 - 💞️ I’m looking to collaborate on ...anything
